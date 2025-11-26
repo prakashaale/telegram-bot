@@ -1,4 +1,4 @@
 telegram-bot/
- ├── bot.py
- ├── requirements.txt
- └── README.md
+bot.py
+requirements.txt
+README.md
